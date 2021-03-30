@@ -2,7 +2,7 @@
     background-color: rgb(228, 214, 29);
     color: white;
     padding: 10px;
-    width: 100%;
+    width: 102.8%;
 }
 .header:hover{
     color: white;
@@ -51,7 +51,7 @@
 }
 .phnems{
     padding-left: 60px;
-    padding-right: ;
+    padding-right: 50px;
     
 }
 .know{
@@ -88,6 +88,12 @@
 .blinking{
     color: lightseagreen;
 }
-.navbar{
-
+/* .navbar{
+    padding-right: 50px;
 }
+.nss{
+    max-width: 98.5%;
+}
+.sss{
+    width: 101.4%;
+} */
