@@ -1,7 +1,8 @@
 .header{
-    background-color: rgb(243, 229, 32);
+    background-color: rgb(228, 214, 29);
     color: white;
     padding: 10px;
+    width: 100%;
 }
 .header:hover{
     color: white;
@@ -16,7 +17,7 @@
 }
 .links{
     color: white;
-    padding-right: 5px;
+    padding-right: 50px;
 }
 /* .sc{
     margin-right: auto;
@@ -32,7 +33,7 @@
 }
  */
   .nav-item{
-    padding-right: 10%;
+    padding-right: 10px;
      
 
  }
@@ -44,13 +45,14 @@
     color: yr;
 }
 .second{
-    background-color: yellow;
-    padding: 20px;
+    background-image: linear-gradient(to right,rgba(26, 247, 99, 0.932),rgb(227, 248, 33));
+    padding: 50px;
     
 }
 .phnems{
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 60px;
+    padding-right: ;
+    
 }
 .know{
     height: 115%;
@@ -59,21 +61,33 @@
     background-color: tomato;
 }
 .phne{
-    padding: 30px;
+    padding: 40px;
     line-height: 30px;
     text-align: center;
 }
-.pr{
+/* .pr{
     background: url(https://www.prathyasa.in/images/presentation-bg.jpg) 50% 0 repeat-y fixed;
     height: auto;
     padding: 75px 0px 60px 0px;
     border-top: 1px solid #eaeaea;
-    border-bottom: 1px solid #eaeaea;
-}
+    border-bottom: 1px solid #eaeaea; */
+/* }
 .blinking {
     animation: forwards 0.8s infinite;
     text-align: center;
-}
+} */
 .dtsc{
     line-height: 30px;
+}
+.navs a{
+    font-weight: 600;
+}
+.pra{
+    background-image: linear-gradient(to right,rgba(55, 247, 30, 0.932),rgb(227, 248, 33));
+}
+.blinking{
+    color: lightseagreen;
+}
+.navbar{
+
 }
