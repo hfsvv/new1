@@ -63,6 +63,7 @@ body{
     color: whitesmoke;
     
 }
+
 .ff ul{
     
     
@@ -85,4 +86,19 @@ body{
 .sss{
     font-family: 'Cinzel', serif;
     font-size: xx-large;
+}
+.kkk{
+    font-weight: bolder;
+    
+}
+.lll{
+    line-height: 40px;
+}
+.know{
+    border: 5px solid  rgb(250, 192, 0) ;
+}
+.pppp :hover img{
+    
+    background-color: black;
+    
 }
