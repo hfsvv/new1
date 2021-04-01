@@ -1,99 +1,35 @@
-.header{
-    background-color: rgb(228, 214, 29);
-    color: white;
+.hh{
+    background-color: rgb(250, 192, 0);
     padding: 10px;
-    width: 102.8%;
+    text-align: center;
+    text-decoration: none;
 }
-.header:hover{
-    color: white;
-    
-}
-/* .navba{
-    position: sticky;
-    background-color: black;
-} */
-.phnem{
-    text-align: center ;
-}
-.links{
-    color: white;
-    padding-right: 50px;
-}
-/* .sc{
-    margin-right: auto;
-    } */
 
-/* .navbar-nav{
-    margin-left: 200px;
-    
+.ss a{
+    text-decoration: none;
 }
-.nav-item {
-    padding-right: 3.0rem;
-    padding-left: .5rem;
-}
- */
-  .nav-item{
-    padding-right: 10px;
-     
-
- }
-/* .nvss{
+.kk{
     position: absolute;
-    right: 10px;    
-}  */
-.section1{
-    color: yr;
-}
-.second{
-    background-image: linear-gradient(to right,rgba(26, 247, 99, 0.932),rgb(227, 248, 33));
-    padding: 50px;
-    
-}
-.phnems{
-    padding-left: 60px;
-    padding-right: 50px;
-    
-}
-.know{
-    height: 115%;
-}
-.know:hover{
-    background-color: tomato;
-}
-.phne{
-    padding: 40px;
-    line-height: 30px;
-    text-align: center;
-}
-/* .pr{
-    background: url(https://www.prathyasa.in/images/presentation-bg.jpg) 50% 0 repeat-y fixed;
-    height: auto;
-    padding: 75px 0px 60px 0px;
-    border-top: 1px solid #eaeaea;
-    border-bottom: 1px solid #eaeaea; */
-/* }
-.blinking {
-    animation: forwards 0.8s infinite;
-    text-align: center;
-} */
-.dtsc{
-    line-height: 30px;
+    right: 8%;
 }
 .navs a{
-    font-weight: 600;
+    margin-right: 30px;
+    font-weight: 500;
+    color: black;
+    
 }
-.pra{
-    background-image: linear-gradient(to right,rgba(55, 247, 30, 0.932),rgb(227, 248, 33));
+.navs a:hover{
+    color: rgb(250, 192, 0);
 }
-.blinking{
-    color: lightseagreen;
+.phnems{
+    padding: 40px;
+    text-align: center;
 }
-/* .navbar{
-    padding-right: 50px;
+.phne{
+    padding: 30px;
+    text-align: center;
 }
-.nss{
-    max-width: 98.5%;
+.cnts{
+        background-image: linear-gradient(to right,rgba(55, 247, 30, 0.932),rgb(227, 248, 33));
+        padding: 50px;
 }
-.sss{
-    width: 101.4%;
-} */
