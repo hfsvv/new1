@@ -8,19 +8,18 @@
 .ss a{
     text-decoration: none;
 }
-.kk{
-    position: absolute;
-    right: 8%;
-}
-.navs a{
-    margin-right: 30px;
+ /* .kk{
+    
+ } */
+ .navs a{
+    margin-right: 60px;
     font-weight: 500;
     color: black;
     
 }
 .navs a:hover{
     color: rgb(250, 192, 0);
-}
+} 
 .phnems{
     padding: 40px;
     text-align: center;
@@ -30,6 +29,60 @@
     text-align: center;
 }
 .cnts{
-        background-image: linear-gradient(to right,rgba(55, 247, 30, 0.932),rgb(227, 248, 33));
+        background-image: url("0dfDsj.jpg");
         padding: 50px;
+}
+.ff{
+    background-image: url("fst.jpg");
+    border: 20px whitesmoke dashed;
+    color: whitesmoke;
+    
+
+    
+}
+body{
+    background-color: whitesmoke;
+
+}
+.xxx{
+    background-image: url("scnd.jpg");
+    border: 20px whitesmoke dashed;
+    color: whitesmoke;
+    text-align: center;
+}
+.jjj{
+    background-image: url("thrd.jpg");
+    border: 20px whitesmoke dashed;
+    color: whitesmoke;
+}
+.eee{
+    background-color: rgb(250, 192, 0);
+}
+.ff a{
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+.ff ul{
+    
+    
+    position: relative;
+    left: 25%;
+    line-height: 30px;
+
+}
+.nbn{
+    padding: 40px;
+}
+.iii,.ooo,.ppp{
+    border: solid rgb(250, 192, 0) 20px ;
+}
+.tsp{
+    position: fixed;
+    bottom: 20px;
+    right: 3%;
+}
+.sss{
+    font-family: 'Cinzel', serif;
+    font-size: xx-large;
 }
