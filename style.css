@@ -29,11 +29,11 @@
     text-align: center;
 }
 .cnts{
-        background-image: url("0dfDsj.jpg");
+        background-image: url("image/0dfDsj.jpg");
         padding: 50px;
 }
 .ff{
-    background-image: url("fst.jpg");
+    background-image: url("image/fst.jpg");
     border: 20px whitesmoke dashed;
     color: whitesmoke;
     
@@ -45,13 +45,13 @@ body{
 
 }
 .xxx{
-    background-image: url("scnd.jpg");
+    background-image: url("image/scnd.jpg");
     border: 20px whitesmoke dashed;
     color: whitesmoke;
     text-align: center;
 }
 .jjj{
-    background-image: url("thrd.jpg");
+    background-image: url("image/thrd.jpg");
     border: 20px whitesmoke dashed;
     color: whitesmoke;
 }
@@ -67,8 +67,7 @@ body{
 .ff ul{
     
     
-    position: relative;
-    left: 25%;
+    text-align: center;
     line-height: 30px;
 
 }
@@ -100,7 +99,7 @@ body{
 }
 .pppp :hover img{
     
-    background-color: black;
+    background-color: #288b06;
     
 }
 .nnn{
@@ -108,4 +107,26 @@ body{
     
     background-color:  rgb(250, 192, 0);
     height: 5px;
+}
+.ggg{
+    background-color: #288b06;
+    border: 5px solid rgb(250, 192, 0);
+    
+}
+.ggg:hover{
+    background-color: rgb(250, 192, 0);
+    border: 5px solid #288b06;
+    
+}
+ .navs a{
+    font-weight: 800;
+    
+    
+}
+
+.nav-link {
+    color: #288b06 !important;
+    }
+.nav-link:hover{
+    color: rgb(250, 192, 0) !important;
 }
