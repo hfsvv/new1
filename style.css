@@ -84,6 +84,7 @@ body{
     right: 3%;
 }
 .sss{
+    color: #288b06;
     font-family: 'Cinzel', serif;
     font-size: xx-large;
 }
@@ -101,4 +102,10 @@ body{
     
     background-color: black;
     
+}
+.nnn{
+    
+    
+    background-color:  rgb(250, 192, 0);
+    height: 5px;
 }
